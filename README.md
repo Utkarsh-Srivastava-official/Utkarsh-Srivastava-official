@@ -5,7 +5,7 @@
 
 <h4 align="center">An undergraduate student, persueing B.tech in CS, I'm highly motivated & passionate enough to make best use of my knowledge for software developement(s) and also to learn & improve my skills within the learning environment.</h4>
 
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh-srivastava-official&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-srivastava-official" /> </p>
 
