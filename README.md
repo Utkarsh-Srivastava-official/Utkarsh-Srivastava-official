@@ -1,5 +1,12 @@
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966
+)](https://Utkarsh-Srivastava-official
+.io)
+
 <h1 align="center">Hi 👋, I'm Utkarsh Srivastava</h1>
-<h3 align="center">An undergraduate student, persueing B.tech in CS, I'm highly motivated & passionate enough to make best use of my knowledge for software developement(s) and also to learn & improve my skills within the learning environment.</h3>
+
+(img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC
+
+<h6 align="center">An undergraduate student, persueing B.tech in CS, I'm highly motivated & passionate enough to make best use of my knowledge for software developement(s) and also to learn & improve my skills within the learning environment.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh-srivastava-official&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-srivastava-official" /> </p>
 
