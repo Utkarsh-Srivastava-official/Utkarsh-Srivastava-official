@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Utkarsh Srivastava</h1>
 
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 <h4 align="center">An undergraduate student, persueing B.tech in CS, I'm highly motivated & passionate enough to make best use of my knowledge for software developement(s) and also to learn & improve my skills within the learning environment.</h4>
 
